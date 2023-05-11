@@ -1,0 +1,20 @@
+@media(max-width:1200px){
+    #id1{
+        width:600px;
+        height: 600px;
+        
+    }
+}
+@media(max-width:900px){
+    #id1{
+        width:600px;
+        height: 600px;
+        
+    }
+}
+@media(max-width:600px){
+    #id1{
+        width:300px;
+        height: 300px;
+    }
+}
